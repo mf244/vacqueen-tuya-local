@@ -1,0 +1,7 @@
+{
+  "name": "VacQueen Tuya (Local)",
+  "content_in_root": false,
+  "domains": ["vacqueen_tuya_local"],
+  "country": ["US"],
+  "homeassistant": "2024.1.0"
+}
