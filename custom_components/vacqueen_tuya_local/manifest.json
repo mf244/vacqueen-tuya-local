@@ -1,7 +1,7 @@
 {
   "domain": "vacqueen_tuya_local",
   "name": "VacQueen Tuya (Local)",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "config_flow": true,
   "documentation": "https://github.com/mf244/vacqueen-tuya-local",
   "issue_tracker": "https://github.com/mf244/vacqueen-tuya-local/issues",
