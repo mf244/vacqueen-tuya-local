@@ -7,5 +7,5 @@
   "issue_tracker": "https://github.com/mf244/vacqueen-tuya-local/issues",
   "requirements": ["tinytuya>=1.13.0"],
   "iot_class": "local_push",
-  "codeowners": ["@YOUR_GITHUB_USERNAME"]
+  "codeowners": ["@mf244"]
 }
